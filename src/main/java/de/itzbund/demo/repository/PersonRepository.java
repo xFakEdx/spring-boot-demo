@@ -1,6 +1,6 @@
-package com.itzbund.demo.repository;
+package de.itzbund.demo.repository;
 
-import com.itzbund.demo.entity.PersonEntity;
+import de.itzbund.demo.entity.PersonEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

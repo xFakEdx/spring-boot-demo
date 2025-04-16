@@ -1,4 +1,4 @@
-package com.itzbund.demo;
+package de.itzbund.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
